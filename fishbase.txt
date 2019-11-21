@@ -1,0 +1,98 @@
+@prefix ns1: <https://fishbase.ropensci.org/#> .
+@prefix ns2: <https://www.google.com/search?q=#> .
+@prefix ns3: <https://fishbase.ropensci.org/siblings#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<16239> ns1:comments "Inhabits mainstreams of middle reaches in deep rocky rapids.  Juveniles occur in tributaries (Ref. 58784). A large fast-swimming predator, feeding on fish of the middle and the upper water levels.  Although most common along the Thai-Lao border at the mouth of the Mun River, its numbers have drastically decreased in recent years.  This is perhaps due to dam construction or excessive gill netting, to which active pursuit predators, like this species, are particularly vulnerable (Ref. 12693).  Undertakes upstream migration at the same time as <i>Probarbus</i> sp. in December-February (Ref. 37770) which may be related to spawning activity (Ref. 9497).  Attains over 30 kg (Ref. 9497)." ;
+    ns1:genus "Aaptosyax" ;
+    ns1:species "grypus" ;
+    ns1:subfamily "No subfamily" ;
+    ns2:images "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuxhG5ybW6Yolj-MeW26Ii7zSXJhTG_fZ8pOOAGsWPTVSzy9TyzbcymmY&s" .
+
+<22903> ns1:comments "Adults inhabit shallow zones of lentic rivers and lakes with sandy or muddy bottoms (Ref. 12819)." ;
+    ns1:family "sf8" ;
+    ns1:genus "Abbottina" ;
+    ns1:species "rivularis" ;
+    ns1:subfamily "Gobioninae" ;
+    ns2:images "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ81UilAbWHCrZ9X3BmDHUZU2xOdiAAozkEUrWyCVz2FZ8wbNsPfvHRCnk&s" .
+
+<2347> ns1:comments "Found over rocky substrate (Ref. 6307)." ;
+    ns1:genus "Abactochromis" ;
+    ns1:species "labrosus" ;
+    ns1:subfamily "Pseudocrenilabrinae" ;
+    ns2:images "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwS-fwlvfjcw9TZhO6MdY4eVTtUZNFfwlGyOEm_viohLDWT2yzrRtWzQ8&s" .
+
+<55143> ns1:comments "None" ;
+    ns1:family "sf7" ;
+    ns1:genus "Abbottina" ;
+    ns1:species "obtusirostris" ;
+    ns1:subfamily "Gobioninae" ;
+    ns2:images "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkvby5h8JH_o4d4WewmFCt72ol1K2AmtUWWL2FlhxOuSvv0HTQRx1GcTd3&s" .
+
+<55145> ns1:comments "None" ;
+    ns1:family "sf6" ;
+    ns1:genus "Abbottina" ;
+    ns1:species "liaoningensis" ;
+    ns1:subfamily "Gobioninae" ;
+    ns2:images "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS40bH6jaxV5EHpXpjYLvofq1CZcFTkUP7AN_OAoSz-vGWHzozUzJODE6Qb&s" .
+
+<58334> ns1:comments "Inhabits mud and silt sand bottoms (Ref. 11441, 48637).  Adults on deep coastal slopes and usually seen swimming high above the bottom, sometimes found in estuaries.  Juveniles in sheltered coastal bays and estuaries with outcrops of rubble or debris on open substrates (Ref. 48637)." ;
+    ns1:family "sf3" ;
+    ns1:genus "Abalistes" ;
+    ns1:species "stellatus" ;
+    ns1:subfamily "None" ;
+    ns2:images "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSNUX6GMGANw2sRmPy2cj_Svzh_LZeVsfPI9Ry5Wgo5EopF3cOH_P1C4g&s" .
+
+<62612> ns1:comments "None" ;
+    ns1:family "sf1" ;
+    ns1:genus "Abalistes" ;
+    ns1:species "filamentosus" ;
+    ns1:subfamily "None" ;
+    ns2:images "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8tUd8gHaQ4DRnk1G8JYWA4kjDPLtyFjWzEyqxXvYxg87GChDH7T2uaFM&s" .
+
+<62797> ns1:comments "None" ;
+    ns1:family "sf4" ;
+    ns1:genus "Abbottina" ;
+    ns1:species "binhi" ;
+    ns1:subfamily "Gobioninae" ;
+    ns2:images "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgKdDaRTGqCOINM3e1tsNH2_WK81p7fmrSWRirwPCjCeYiUwJ7AFmMeAnu&s" .
+
+<64588> ns1:comments "Found in a river less than 10 meters wide and less than 1 meter depth during dry season, warm water of over 80°F during the day, slightly acid water, pH just over 6, in primary forest (Ref. 78622). Non-annual reproduction with two weeks' water incubation of eggs and schooling in small groups of a few dozens of specimens of various ages and dominance; several individualos may have gone through a sex change (Ref. 78622)." ;
+    ns1:genus "Aapticheilichthys" ;
+    ns1:species "websteri" ;
+    ns1:subfamily "Procatopodinae" ;
+    ns2:images "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAExPjApucsRZ2QZ3fpIy7Rte9diNqObZPVmGewEw0dpftrXntj02ttAX2&s" .
+
+<65146> ns1:comments "None" ;
+    ns1:family "sf5" ;
+    ns1:genus "Abbottina" ;
+    ns1:species "lalinensis" ;
+    ns1:subfamily "Gobioninae" ;
+    ns2:images "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS_3rDUexsTCk5ltXJw4jgVA5uIMhoE-VaTKFO7EfL526PAXB82qcgGfXB&s" .
+
+<9> ns1:comments "Inhabit coastal areas, usually found over muddy and sandy bottoms, also around reefs, together with the sponges and algae (Ref. 5213).  Feed on benthic animals (Ref. 9769).  Oviparous (Ref. 205).  Also caught with vertical long-lines (Ref. 9770).  Marketed fresh and dried-salted (Ref. 9770)." ;
+    ns1:family "sf2" ;
+    ns1:genus "Abalistes" ;
+    ns1:species "stellaris" ;
+    ns1:subfamily "None" ;
+    ns2:images "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3rRRkM_pkZT4uTsRyElUbujtbtiWM-Ghck2b0DBRkPRHur7zyqHBrK_w&s" .
+
+<sf1> ns3:sibling "[62612, 9, 58334]" .
+
+<sf2> ns3:sibling "[9, 62612, 58334]" .
+
+<sf3> ns3:sibling "[58334, 62612, 9]" .
+
+<sf4> ns3:sibling "[62797, 65146, 55145, 55143, 22903]" .
+
+<sf5> ns3:sibling "[65146, 62797, 55145, 55143, 22903]" .
+
+<sf6> ns3:sibling "[55145, 62797, 65146, 55143, 22903]" .
+
+<sf7> ns3:sibling "[55143, 62797, 65146, 55145, 22903]" .
+
+<sf8> ns3:sibling "[22903, 62797, 65146, 55145, 55143]" .
+
