@@ -9,9 +9,9 @@
 Além de ter sido criado um termo com o endereço da imagem da espécie, a partir de uma busca ao [Google](https://www.google.com/search?q= ). O qual está aninhado à espécie em questão.
 
 
-### Vocabulários utilizados:
--fishing;
--sf;
--img;
+### Vocabulários criados:
+- fishing;
+- sf;
+- img;
 
 ###Fim
